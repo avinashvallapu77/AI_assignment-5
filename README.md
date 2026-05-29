@@ -56,3 +56,45 @@ The AI Based Travel Planner is a simple Flask-based web application that recomme
 travel_planner/
 │── app.py
 │── README.md
+
+# Knowledge Graphs and Tools to Build KG
+
+## Overview
+
+This project demonstrates the implementation of a simple Knowledge Graph using:
+
+- RDFLib
+- Neo4j
+- RDF concepts and triples
+
+The program explains the theory of Knowledge Graphs, creates RDF triples, stores relationships, and demonstrates graph database usage using Neo4j.
+
+---
+
+# Objectives
+
+- Understand Knowledge Graph concepts
+- Learn RDF and graph-based representation
+- Explore tools used for building Knowledge Graphs
+- Implement a simple Knowledge Graph in Python
+
+---
+
+# Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Programming Language |
+| RDFLib | RDF Graph Processing |
+| Neo4j | Graph Database |
+| RDF | Semantic Data Representation |
+
+---
+
+# Project Structure
+
+```text
+knowledge_graph/
+│── knowledge_graph.py
+│── knowledge_graph.rdf
+│── README.md
