@@ -98,3 +98,20 @@ knowledge_graph/
 │── knowledge_graph.py
 │── knowledge_graph.rdf
 │── README.md
+
+# Bayesian Networks
+
+## Objective
+Implement probabilistic reasoning using Bayesian Networks.
+
+## Example Used
+Traffic prediction using Rain and Accident.
+
+## Concepts
+- Conditional Probability
+- Inference
+- Probabilistic Modelling
+
+## Run
+pip install pgmpy
+python bayesian_network.py
