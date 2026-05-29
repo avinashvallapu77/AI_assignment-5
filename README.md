@@ -53,10 +53,6 @@ The AI Based Travel Planner is a simple Flask-based web application that recomme
 # Project Structure
 
 ```text
-travel_planner/
-│── app.py
-│── README.md
-
 # Knowledge Graphs and Tools to Build KG
 
 ## Overview
