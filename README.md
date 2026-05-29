@@ -52,7 +52,6 @@ The AI Based Travel Planner is a simple Flask-based web application that recomme
 
 # Project Structure
 
-```text
 # Knowledge Graphs and Tools to Build KG
 
 ## Overview
@@ -89,7 +88,7 @@ The program explains the theory of Knowledge Graphs, creates RDF triples, stores
 
 # Project Structure
 
-```text
+
 knowledge_graph/
 │── knowledge_graph.py
 │── knowledge_graph.rdf
@@ -111,3 +110,5 @@ Traffic prediction using Rain and Accident.
 ## Run
 pip install pgmpy
 python bayesian_network.py
+
+```text
